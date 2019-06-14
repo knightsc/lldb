@@ -1,2 +1,4 @@
 settings set target.x86-disassembly-flavor intel
 settings set target.load-script-from-symbol-file true
+settings set stop-disassembly-count 15
+
